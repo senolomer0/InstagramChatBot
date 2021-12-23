@@ -1,4 +1,4 @@
 # InstagramChatBot
-Kullanıcılara mesaj gönderilmesini sağlayan Instagram Chatbot programı. Bu programa PyQt5 kullanılarak arayüz eklenerek güzelleştirilmesi sağlanmıştır.
+Instagram Chatbot program that allows sending messages to users. An interface has been added to this program using PyQt5.
 
-Bu projenin açıklamasını medium hesabımdan bulabilirsiniz.https://senolomer0.medium.com/instagram-chatbot-python-28c9da6b5c3a
+You can find the explanation of this program in Turkish on my medium account. https://senolomer0.medium.com/instagram-chatbot-python-28c9da6b5c3a
